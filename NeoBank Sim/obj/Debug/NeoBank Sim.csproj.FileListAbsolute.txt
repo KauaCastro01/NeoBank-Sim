@@ -1,0 +1,7 @@
+C:\Users\kauac\OneDrive\Documentos\Programação\Projetos\Console\NeoBank Sim\NeoBank Sim\bin\Debug\NeoBank Sim.exe.config
+C:\Users\kauac\OneDrive\Documentos\Programação\Projetos\Console\NeoBank Sim\NeoBank Sim\bin\Debug\NeoBank Sim.exe
+C:\Users\kauac\OneDrive\Documentos\Programação\Projetos\Console\NeoBank Sim\NeoBank Sim\bin\Debug\NeoBank Sim.pdb
+C:\Users\kauac\OneDrive\Documentos\Programação\Projetos\Console\NeoBank Sim\NeoBank Sim\obj\Debug\NeoBank Sim.csproj.AssemblyReference.cache
+C:\Users\kauac\OneDrive\Documentos\Programação\Projetos\Console\NeoBank Sim\NeoBank Sim\obj\Debug\NeoBank Sim.csproj.CoreCompileInputs.cache
+C:\Users\kauac\OneDrive\Documentos\Programação\Projetos\Console\NeoBank Sim\NeoBank Sim\obj\Debug\NeoBank Sim.exe
+C:\Users\kauac\OneDrive\Documentos\Programação\Projetos\Console\NeoBank Sim\NeoBank Sim\obj\Debug\NeoBank Sim.pdb

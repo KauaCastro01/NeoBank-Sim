@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kauac\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Projetos\\Console\\NeoBank Sim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6596A1-C770-41FB-A5AE-A4349B398828}|NeoBank Sim\\NeoBank Sim.csproj|C:\\Users\\kauac\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Projetos\\Console\\NeoBank Sim\\neobank sim\\variaveisconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6596A1-C770-41FB-A5AE-A4349B398828}|NeoBank Sim\\NeoBank Sim.csproj|solutionrelative:neobank sim\\variaveisconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6596A1-C770-41FB-A5AE-A4349B398828}|NeoBank Sim\\NeoBank Sim.csproj|C:\\Users\\kauac\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Projetos\\Console\\NeoBank Sim\\neobank sim\\conexaosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6596A1-C770-41FB-A5AE-A4349B398828}|NeoBank Sim\\NeoBank Sim.csproj|solutionrelative:neobank sim\\conexaosql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6596A1-C770-41FB-A5AE-A4349B398828}|NeoBank Sim\\NeoBank Sim.csproj|C:\\Users\\kauac\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Projetos\\Console\\NeoBank Sim\\neobank sim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6596A1-C770-41FB-A5AE-A4349B398828}|NeoBank Sim\\NeoBank Sim.csproj|solutionrelative:neobank sim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6596A1-C770-41FB-A5AE-A4349B398828}|NeoBank Sim\\NeoBank Sim.csproj|C:\\Users\\kauac\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Projetos\\Console\\NeoBank Sim\\neobank sim\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6596A1-C770-41FB-A5AE-A4349B398828}|NeoBank Sim\\NeoBank Sim.csproj|solutionrelative:neobank sim\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6596A1-C770-41FB-A5AE-A4349B398828}|NeoBank Sim\\NeoBank Sim.csproj|c:\\users\\kauac\\onedrive\\documentos\\programa\u00E7\u00E3o\\projetos\\console\\neobank sim\\neobank sim\\funcoesbanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6596A1-C770-41FB-A5AE-A4349B398828}|NeoBank Sim\\NeoBank Sim.csproj|solutionrelative:neobank sim\\funcoesbanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuncoesBanco.cs",
+              "DocumentMoniker": "C:\\Users\\kauac\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Projetos\\Console\\NeoBank Sim\\NeoBank Sim\\FuncoesBanco.cs",
+              "RelativeDocumentMoniker": "NeoBank Sim\\FuncoesBanco.cs",
+              "ToolTip": "C:\\Users\\kauac\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Projetos\\Console\\NeoBank Sim\\NeoBank Sim\\FuncoesBanco.cs",
+              "RelativeToolTip": "NeoBank Sim\\FuncoesBanco.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAqwOsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:07:38.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "variaveisConta.cs",
+              "DocumentMoniker": "C:\\Users\\kauac\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Projetos\\Console\\NeoBank Sim\\NeoBank Sim\\variaveisConta.cs",
+              "RelativeDocumentMoniker": "NeoBank Sim\\variaveisConta.cs",
+              "ToolTip": "C:\\Users\\kauac\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Projetos\\Console\\NeoBank Sim\\NeoBank Sim\\variaveisConta.cs",
+              "RelativeToolTip": "NeoBank Sim\\variaveisConta.cs",
+              "ViewState": "AgIAADgCAAAAAAAAAAAqwFACAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:17:22.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexaoSQL.cs",
+              "DocumentMoniker": "C:\\Users\\kauac\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Projetos\\Console\\NeoBank Sim\\NeoBank Sim\\ConexaoSQL.cs",
+              "RelativeDocumentMoniker": "NeoBank Sim\\ConexaoSQL.cs",
+              "ToolTip": "C:\\Users\\kauac\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Projetos\\Console\\NeoBank Sim\\NeoBank Sim\\ConexaoSQL.cs",
+              "RelativeToolTip": "NeoBank Sim\\ConexaoSQL.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAwwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:14:54.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\kauac\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Projetos\\Console\\NeoBank Sim\\NeoBank Sim\\Usuario.cs",
+              "RelativeDocumentMoniker": "NeoBank Sim\\Usuario.cs",
+              "ToolTip": "C:\\Users\\kauac\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Projetos\\Console\\NeoBank Sim\\NeoBank Sim\\Usuario.cs",
+              "RelativeToolTip": "NeoBank Sim\\Usuario.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowCEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:52:17.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kauac\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Projetos\\Console\\NeoBank Sim\\NeoBank Sim\\Program.cs",
+              "RelativeDocumentMoniker": "NeoBank Sim\\Program.cs",
+              "ToolTip": "C:\\Users\\kauac\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\Projetos\\Console\\NeoBank Sim\\NeoBank Sim\\Program.cs",
+              "RelativeToolTip": "NeoBank Sim\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:51:17.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
