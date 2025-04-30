@@ -1,84 +1,47 @@
-NeoBank Sim - Sistema Bancário Simples
+# 💳 NeoBank-Sim
 
-NeoBank Sim é um sistema bancário desenvolvido em C# com o objetivo de simular operações bancárias básicas, como criação de contas, depósitos, saques e transferências. O projeto busca boas práticas de desenvolvimento, organização de código e performance.
+**Sistema bancário para simulação de operações financeiras**  
+Projeto desenvolvido para simular operações bancárias, como criação de contas, depósitos, saques e transferências, com foco em boas práticas de desenvolvimento e organização de código.
 
-Tecnologias Utilizadas
+---
 
-Linguagem: C#
+## 📌 Sobre o Projeto
 
-Framework: .NET
+**NeoBank-Sim** é uma simulação de um sistema bancário que permite aos usuários realizar diversas operações bancárias, como criar contas, fazer depósitos, realizar saques e transferências. O projeto foi desenvolvido utilizando **.NET**, **padrão MVC** e **SQL Server** para o armazenamento de dados. Ele segue as boas práticas de desenvolvimento, visando a escalabilidade, organização e manutenção do código.
 
-Padrão de Arquitetura: MVC
+Futuras atualizações incluirão uma interface gráfica e a adição de novas funcionalidades, com o objetivo de expandir a experiência do usuário e oferecer mais opções de interação.
 
-Banco de Dados: SQL Server
+---
 
-Interface: Console Application (versão futura com UI planejada)
+## ⚙️ Funcionalidades
 
-Funcionalidades
+- ✅ **Criação de contas bancárias**
+- ✅ **Depósitos e saques**
+- ✅ **Transferências entre contas**
+- ✅ **Utilização do padrão MVC** para organização do código
+- ✅ **Banco de dados SQL Server** para persistência de dados
 
-Criação e gerenciamento de contas bancárias
+---
 
-Depósitos, saques e transferências entre contas
+## 🚀 Tecnologias Utilizadas
 
-Validação de saldo antes das transações
+- 🧠 **C#**
+- 🗃️ **SQL Server** (Banco de dados)
 
-Registro de histórico de operações
+---
 
-Armazenamento de dados em banco de dados
+## 🎯 Objetivo
 
-Interface simples e intuitiva
+Simular um sistema bancário de maneira simples e eficiente, com foco na implementação de operações básicas e boas práticas de desenvolvimento. A aplicação será expandida com novas funcionalidades e uma interface gráfica, visando oferecer uma experiência mais completa e amigável para o usuário.
 
-Clone o repositório:
+---
 
-git clone https://github.com/seu-usuario/neobank-sim.git
+## 📫 Contato
 
-Acesse a pasta do projeto:
+Desenvolvido por **Kauã Castro**  
+📧 kauacastro@outlook.com.br  
+📍 Campinas - SP
 
-cd neobank-sim
+---
 
-Abra o projeto no Visual Studio ou VS Code
-
-Restaure os pacotes:
-
-dotnet restore
-
-Compile e execute:
-
-dotnet run
-
-Melhorias Futuras
-
-Implementação de uma interface gráfica (WinForms, WPF ou Blazor)
-
-Suporte a mais tipos de contas (Conta Poupança, Conta Empresarial)
-
-Integração com APIs de pagamento
-
-Autenticação e controle de acesso
-
-Contribuição
-
-Contribuições são bem-vindas! Para contribuir, siga os passos:
-
-Fork o repositório
-
-Crie uma nova branch:
-
-git checkout -b minha-melhoria
-
-Faça as modificações e commit:
-
-git commit -m "Melhoria na funcionalidade X"
-
-Envie as alterações para o repositório remoto:
-
-git push origin minha-melhoria
-
-Abra um Pull Request
-
-Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para detalhes.
-
-Desenvolvido por Kauã Castro
-
+> ⭐ Se você gostou do projeto, deixe uma estrela no repositório!
